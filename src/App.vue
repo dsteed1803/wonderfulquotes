@@ -37,7 +37,7 @@
         // ToDo: Create an array data object called quotes
         // Have at least one string quote by default
 
-        quotes: ['Go to Hell Javascript'],
+        quotes: ['This is an example quote'],
 
         // ToDo: Create a data object maxQuotes that is set to 10
         maxQuotes: 10
